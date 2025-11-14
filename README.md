@@ -1,4 +1,4 @@
-# Analysis of shootings records
+# Data Mining and Analysis of US Police Shootings: Patterns, Predictions, and Insights
 
 ## University of Arizona - INFO523 Data Mining and Discovery
 
