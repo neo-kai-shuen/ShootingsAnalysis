@@ -42,13 +42,25 @@ Analysis of the US police shooting dataset found no strong correlation between r
 
 
 #### Data visualisations
+<img width="667" height="422" alt="image" src="https://github.com/user-attachments/assets/acb75cf6-0456-460e-8e9a-9bd5ab119bfa" />
+
+<img width="670" height="392" alt="image" src="https://github.com/user-attachments/assets/73a62caf-e16b-4552-8af1-ea3f5f98dce4" />
+
+<img width="741" height="244" alt="image" src="https://github.com/user-attachments/assets/d95cc424-19c9-4146-9f27-2319bf61012a" />
+
+<img width="626" height="196" alt="image" src="https://github.com/user-attachments/assets/e9706722-5dfe-41a4-a5aa-b4a90eb6fcc4" />
+
+<img width="603" height="226" alt="image" src="https://github.com/user-attachments/assets/e334716b-69d4-4bcf-b6e9-e35cd9fee274" />
+
+<img width="989" height="365" alt="image" src="https://github.com/user-attachments/assets/3d7f7acb-529e-4704-b749-9392753fa5b3" />
+
+<img width="936" height="330" alt="image" src="https://github.com/user-attachments/assets/43792431-a92f-469d-800a-fbd719011502" />
 
 
 
 
 
-#### References
-- To view dataset: [fatal-police-shootings-data.csv](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/fatal-police-shootings-data.csv)
-- To view code: [analysis.R](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/analysis.R)
-- To view report: [Final_Report_Group_8.pdf](https://github.com/kai-shuen-neo/dm-ShootingsRecords/blob/main/Final_Report_Group_8.pdf)
+
+
+
 
